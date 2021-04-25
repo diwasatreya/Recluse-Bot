@@ -24,9 +24,13 @@
 
 ##### Modification 
 - Add you token in config and .env
-- goto server.js number 163 and add your channel ID
-- run it by `node index.js` 
+- Add you ID in `owner.json`
+- Goto `server.js` number 163 and add your channel ID
+- run it by `node server.js` 
 
 
 ![image](https://user-images.githubusercontent.com/74746579/115984077-e0493800-a5c4-11eb-93f6-6c8c5bd8728b.png)
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
+
+
+Please Subscribe to my channel and for help join my server.
