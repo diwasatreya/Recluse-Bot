@@ -32,5 +32,8 @@
 ![image](https://user-images.githubusercontent.com/74746579/115984077-e0493800-a5c4-11eb-93f6-6c8c5bd8728b.png)
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
 
+- Run in repl.it
+- [Click Here](https://replit.com/@Atreyayt/Recluse-Bot-1#README.md)
+
 
 Please Subscribe to my channel and for help join my server.
