@@ -1,3 +1,4 @@
+# Suscribe to Atreya YT
 # Recluse-Bot
 200+ commands free open source code of discord bot
 
@@ -11,7 +12,7 @@
 - Dont say u created it when u didnt
 - dont copy paste or u will never learn
 ##### Things you should to do:
--Suscribe to Atreya YT
+- Suscribe to Atreya YT
 - star this repo
 - fork this repo
 - follow me
@@ -27,4 +28,4 @@
 
 
 ![image](https://user-images.githubusercontent.com/74746579/115984077-e0493800-a5c4-11eb-93f6-6c8c5bd8728b.png)
-- Go secrets[Environment Variable] and add TOKEN and paste token there or add .env file and add token there
+- Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
