@@ -1,4 +1,5 @@
 # Suscribe to Atreya YT
+- [Subscribe](https://www.youtube.com/channel/UCprRYOr1nWjKDklvvBIqw5g/videos)
 # Recluse-Bot
 200+ commands free open source code of discord bot
 
