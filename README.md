@@ -1,6 +1,6 @@
-# Suscribe to Atreya YT
-- [Subscribe](https://www.youtube.com/channel/UCprRYOr1nWjKDklvvBIqw5g/videos)
-# Recluse-Bot
+# Suscribe to KP 18 Gamer
+- [Subscribe](https://www.youtube.com/channel/UCo2iuPS4FZ8V6H_ct2F8-2A/featured)
+# Discord-Bot
 200+ commands free open source code of discord bot
 
 ## This bot was made Atreya YT#0513, do not remove credits or you will have copyright issues.
@@ -13,7 +13,7 @@
 - Dont say u created it when u didnt
 - dont copy paste or u will never learn
 ##### Things you should to do:
-- Suscribe to Atreya YT
+- Suscribe to  KP 18 AKA Atreya
 - star this repo
 - fork this repo
 - follow me
@@ -33,7 +33,7 @@
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
 
 - Run in repl.it
-- [Click Here](https://replit.com/@Atreyayt/Recluse-Bot-1#README.md)
+- [Click Here](https://replit.com/@GamingDiwas/Discord-bot#README.md)
 
 
 Please Subscribe to my channel and for help join my server.
