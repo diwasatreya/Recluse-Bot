@@ -29,11 +29,11 @@
 - run it by `node server.js` 
 
 
-![image](https://user-images.githubusercontent.com/74746579/115984077-e0493800-a5c4-11eb-93f6-6c8c5bd8728b.png)
+![image](https://user-images.githubusercontent.com/74746579/119320781-a8084880-bc9b-11eb-9f34-aa8351183424.png)
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
 
 - Run in repl.it
-- [Click Here](https://replit.com/@GamingDiwas/Discord-bot#README.md)
+- [Click Here](https://replit.com/@GamingDiwas/Discord-Bot-Updated#README.md)
 
 
 Please Subscribe to my channel and for help join my server.
