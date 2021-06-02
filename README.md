@@ -33,7 +33,7 @@
 - Go secrets[Environment Variable] and add TOKEN and paste token there if you are in repl.it or put  add token in .env file
 
 - Run in repl.it
-- [Click Here](https://replit.com/@GamingDiwas/Discord-Bot-Updated#README.md)
+- [Click Here](https://replit.com/@GamingDiwas/Discord-Bot-Updated-v1#README.md)
 
 
 Please Subscribe to my channel and for help join my server.
