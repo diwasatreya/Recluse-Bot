@@ -43,7 +43,7 @@
     "mal-scraper": "^2.11.3",
     "mathjs": "^7.1.0",
     "memer-api": "^2.1.4",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^5.12.3",
     "ms": "^2.1.2",
