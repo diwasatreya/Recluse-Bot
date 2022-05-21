@@ -49,7 +49,7 @@
     "ms": "^2.1.2",
     "neko-love": "^2.0.2",
     "nekos.life": "^2.0.7",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-superfetch": "^0.1.11",
     "novelcovid": "^3.0.0",
     "npm": "^7.6.1",
