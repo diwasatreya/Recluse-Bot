@@ -16,7 +16,7 @@
     "amethyste-api": "^1.1.5",
     "ascii-table": "^0.0.9",
     "await": "^0.2.6",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "canvacord": "^5.1.0",
     "canvas-constructor": "^4.1.0",
     "canvas-senpai": "^0.1.6",
