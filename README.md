@@ -1,5 +1,5 @@
-# Suscribe to KP 18 Gamer
-- [Subscribe](https://www.youtube.com/channel/UCo2iuPS4FZ8V6H_ct2F8-2A/featured)
+# Suscribe to Diwas Atreya 
+- [Subscribe](https://www.youtube.com/@DiwasAtreya)
 # Discord-Bot
 200+ commands free open source code of discord bot
 
