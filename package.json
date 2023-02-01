@@ -45,7 +45,7 @@
     "memer-api": "^2.1.4",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
-    "mongoose": "^5.12.3",
+    "mongoose": "^5.13.15",
     "ms": "^2.1.2",
     "neko-love": "^2.0.2",
     "nekos.life": "^2.0.7",
